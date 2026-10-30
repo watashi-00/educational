@@ -268,3 +268,16 @@ flowchart TB
 - Students must only access their own academic records.
 - Administrative permissions must support delegation and explicit scope restrictions.
 - Sensitive operations must be recorded in audit logs.
+
+## License
+
+This project is licensed under the GNU Affero General
+Public License v3.0 (AGPL-3.0).
+
+Commercial licensing is available for organizations
+requiring proprietary use, private modifications,
+or alternative distribution terms.
+
+For commercial licensing inquiries, contact:
+licensing@studiosync.com.br - routing mail
+nova2948@gmail.com          - personal
