@@ -1,6 +1,6 @@
 [submodule "educational_infra"]
 	path = educational_infra
-	url = ./educational_infra
+	url = https://github.com/watashi-00/educational_infra.git
 [submodule "educational_client"]
 	path = educational_client
-	url = ./educational_client
+	url = https://github.com/watashi-00/educational_client.git
