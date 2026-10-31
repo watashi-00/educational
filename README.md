@@ -278,6 +278,6 @@ Commercial licensing is available for organizations
 requiring proprietary use, private modifications,
 or alternative distribution terms.
 
-For commercial licensing inquiries, contact:
-licensing@studiosync.com.br - routing mail
+For commercial licensing inquiries, contact:<br>
+licensing@studiosync.com.br - routing mail<br>
 nova2948@gmail.com          - personal
